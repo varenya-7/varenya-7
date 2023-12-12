@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Chakra UI ,**
+- 🌱 I’m currently learning **React.js (Chakra UI)**
 
 - 👨‍💻 All of my projects are available at [https://varenya-7.github.io/Portfolio-2.0/](https://varenya-7.github.io/Portfolio-2.0/)
 
