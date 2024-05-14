@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://varenya-7.github.io/Portfolio-2.0/](https://varenya-7.github.io/Portfolio-2.0/)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **java**
 
 - 📫 How to reach me **singhvarenya.12@gmail.com**
 
