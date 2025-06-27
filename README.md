@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Varenya</h1>
 <h3 align="center">I write code | Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Gen AI**
 
-- 🌱 I’m currently learning **React.js (Material UI) / Tailwind CSS**
+- 🌱 I’m currently learning **Cloud / Devops**
 
 - 👨‍💻 All of my projects are available at [https://varenya-7.github.io/Portfolio-2.0/](https://varenya-7.github.io/Portfolio-2.0/)
-
-- 💬 Ask me about **java**
 
 - 📫 How to reach me **singhvarenya.12@gmail.com**
 
