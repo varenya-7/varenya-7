@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Cloud / Devops**
 
-- 👨‍💻 All of my projects are available at [https://varenya-7.github.io/Portfolio-2.0/](https://varenya-7.github.io/Portfolio-2.0/)
-
 - 📫 How to reach me **singhvarenya.12@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1R1bYwvV-NYRxvx2bDAXTJWw_nEnhLZi8/view?usp=sharing
