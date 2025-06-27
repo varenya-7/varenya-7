@@ -16,7 +16,6 @@
 <a href="https://www.linkedin.com/in/varenya-singh-b07629301/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="varenya singh" height="30" width="40" />
 </a>
-
 <a href="https://instagram.com/varenya.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varenya.7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/varenya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varenya_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/varenya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varenya_7" height="30" width="40" /></a>
