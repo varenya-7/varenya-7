@@ -17,7 +17,6 @@
 <a href="https://instagram.com/varenya.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varenya.7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/varenya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varenya_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/varenya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varenya_7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/varenya7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="varenya7" height="30" width="40" /></a>
 <a href="https://discord.gg/aczHb7f3yS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aczHb7f3yS" height="30" width="40" /></a>
 </p>
 
